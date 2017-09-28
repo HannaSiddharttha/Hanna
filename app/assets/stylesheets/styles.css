@@ -1,0 +1,11 @@
+html{
+	margin: 0px;
+	padding: 0px;
+}
+.box-login{
+	margin: 25px auto;
+	width: 500px;
+}
+.back{
+	background: rgba(0, 156, 230, 0.4);
+}
